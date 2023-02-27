@@ -5,7 +5,7 @@
 <name> Horse </name>
 <scientific_name>"Equus caballus"</scientific name>
 </animal_name>
-<role_in_foodchain="Herbivores"> </role_in_foodchain>
+<role_in_foodchain>"Herbivores"</role_in_foodchain>
 <average_life="25 - 30 yrs"> </average_life>
 <legs> 4 </legs>
 <taxonomy> Mammals </taxonomy>
@@ -21,7 +21,7 @@
 <name> Salamander </name>
 <scientific_name>"Urodela"</scientific name>
 </animal_name>
-<role_in_foodchain="Carnivores"> </role_in_foodchain>
+<role_in_foodchain>"Carnivores"</role_in_foodchain>
 <average_life="25 - 30 yrs"> </average_life>
 <legs> 4 </legs>
 <taxonomy> Amphibians </taxonomy>
@@ -37,7 +37,7 @@
 <name> Dog </name>
 <scientific_name>"Caris lupus familiaris"</scientific name>
 </animal_name>
-<role_in_foodchain="Omnivores"> </role_in_foodchain>
+<role_in_foodchain>"Omnivores"</role_in_foodchain>
 <average_life="10 - 13 yrs"> </average_life>
 <legs> 4 </legs>
 <taxonomy> Mammals </taxonomy>
@@ -53,7 +53,7 @@
 <name> Cat </name>
 <scientific_name>"Felis silvestris catus"</scientific name>
 </animal_name>
-<role_in_foodchain="Carnivores"> </role_in_foodchain>
+<role_in_foodchain>"Carnivores"</role_in_foodchain>
 <average_life="10 - 20 yrs"> </average_life>
 <legs> 4 </legs>
 <taxonomy> Mammals </taxonomy>
@@ -69,7 +69,7 @@
 <name> Elephant </name>
 <scientific_name>"Loxodonta africana and Elephas maximus"</scientific name>
 </animal_name>
-<role_in_foodchain="Herbovores"> </role_in_foodchain>
+<role_in_foodchain>"Herbovores"</role_in_foodchain>
 <average_life="60 - 70 yrs"> </average_life>
 <legs> 4 </legs>
 <taxonomy> Mammals </taxonomy>
