@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <animals>
+  <animal>
    <animal_name>
        <name>Horse</name>
        <scientific_name>Equus caballus</scientific_name>
@@ -15,8 +16,8 @@
         <trivia>A baby horse is called a Foal.</trivia>
         <trivia>Their kicking force is estimated to be 2, 000 psi, with an average speed of 200 miles per hour.</trivia>
    </trivias>
-</animal>
-
+  </animal>
+  <animal>
    <animal_name>
        <name>Salamander</name>
        <scientific_name>Urodela</scientific_name>
@@ -31,8 +32,8 @@
         <trivia>Salamanders are capable of regenerating lost limbs.</trivia>
         <trivia>The Earliest Salamander Species Lived Before the Dinosaurs.</trivia>
    </trivias>
-</animal>
-
+  </animal>
+  <animal>
    <animal_name>
        <name>Dog</name>
        <scientific_name>Caris lupus familiaris</scientific_name>
@@ -47,8 +48,8 @@
         <trivia>Dogs dream.</trivia>
         <trivia>Dogs Can Sweat Through Their Paws.</trivia>
    </trivias>
-</animal>
-
+  </animal>
+  <animal>
    <animal_name>
        <name>Cat</name>
        <scientific_name>Felis silvestris catus</scientific_name>
@@ -63,8 +64,8 @@
         <trivia>Each cat's nose is unique, much like human fingerprints.</trivia>
         <trivia>Cats can jump 5 times their height.</trivia>
    </trivias>
-</animal>
-
+  </animal>
+  <animal>
    <animal_name>
        <name>Elephant</name>
        <scientific_name>Loxodonta africana and Elephas maximus</scientific_name>
@@ -79,4 +80,6 @@
         <trivia>Each elephant has completely unique ears.</trivia>
         <trivia>They have a poor hearing, despite having such large ears.</trivia>
    </trivias>
-</animal>
+  </animal>
+</animals>
+  
