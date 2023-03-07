@@ -1,65 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <animals>
-    <animal_name="Horse">
-       <scientific_name="Equus caballus">
-          <role_in_foodchain="Herbivores">
-             <average_life="25-30 yrs">
-               <legs="4">
-                  <taxonomy="Mammals">
+    <animal name="Horse">
+       <scientific name="Equus caballus">
+          <role foodchain="Herbivores">
+             <average life="25-30 yrs">
+               <legs total="4">
+                  <taxonomy class="Mammals">
                     <species>
-                        <species_1>Arabian horse<species_1>
-                        <species_2>Friesian horse<species_2>
-                        <species_3>Shire horse<species_3>
-                        <species_4>American Quarter Horse<species_4>
+                        <species_1>Arabian horse</species_1>
+                        <species_2>Friesian horse</species_2>
+                        <species_3>Shire horse</species_3>
+                        <species_4>American Quarter Horse</species_4>
                     </species>
                     <trivias>
-                        <trivia_1>Horses can sleep both lying down and standing up.</trivia_1>
-                        <trivia_2>Horses can grow a mustache.</trivia_2>
+                        <trivia_1>Horse can sleep both lying down and standing up.</trivia_1>
+                        <trivia_2>Horse can grow a mustache.</trivia_2>
                         <trivia_3>A baby horse is called a Foal.</trivia_3>
                         <trivia_4>Their kicking force is estimated to be 2, 000 psi, with an average speed of 200 miles per hour.</trivia_4>
-                     </trivias>
+                    </trivias>
                   </taxonomy>
                </legs>
-             </average_life>
-          </role_in_foodchain>
-       </scientific_name>
-    </animal_name>
-  <animal_name="Salamander">
-       <scientific_name="Urodela">
-          <role_in_foodchain="Carnivores">
-             <average_life="25-30 yrs">
-               <legs="4">
-                  <taxonomy="Amphibians">
+             </average>
+          </role>
+       </scientific>
+    </animal>
+   <animal name="Salamander">
+       <scientific name="Urodela">
+          <role foodchain="Carnivores">
+             <average life="25-30 yrs">
+               <legs total="4">
+                  <taxonomy class="Amphibians">
                      <species>
-                        <species_1>Spotted salamander<species_1>
-                        <species_2>Fire salamander<species_2>
-                        <species_3>Chinese giant salamander<species_3>
-                        <species_4>Tiger salamander<species_4>
+                        <species_1>Spotted salamander</species_1>
+                        <species_2>Fire salamander</species_2>
+                        <species_3>Chinese giant salamander</species_3>
+                        <species_4>Tiger salamander</species_4>
                     </species>
-                     <trivias>
+                    <trivias>
                         <trivia_1>Some salamanders can breathe through their skin.</trivia_1>
                         <trivia_2>Salamanders are cannibals. They will eat other salamanders that are smaller than themselves when given the opportunity.</trivia_2>
                         <trivia_3>Salamanders are capable of regenerating lost limbs.</trivia_3>
                         <trivia_4>The Earliest Salamander Species Lived Before the Dinosaurs.</trivia_4>
-                     </trivias>
+                    </trivias>
                   </taxonomy>
                </legs>
-             </average_life>
-          </role_in_foodchain>
-       </scientific_name>
-    </animal_name>
-   <animal_name="Dog">
-       <scientific_name="Caris lupus familiaris">
-          <role_in_foodchain="Omnivores">
-             <average_life="10-13 yrs">
-               <legs="4">
-                  <taxonomy="Mammals">
+             </average>
+          </role>
+       </scientific>
+    </animal>
+   <animal name="Dog">
+       <scientific name="Caris lupus familiaris">
+          <role foodchain="Omnivores">
+             <average life="10-13 yrs">
+               <legs total="4">
+                  <taxonomy class="Mammals">
                      <species>
-                        <species_1>German Shepherd<species_1>
-                        <species_2>Labrador Retriever<species_2>
-                        <species_3>Siberian Husky<species_3>
-                        <species_4>Bulldog<species_4>
+                        <species_1>German Shepherd</species_1>
+                        <species_2>Labrador Retriever</species_2>
+                        <species_3>Siberian Husky</species_3>
+                        <species_4>Bulldog</species_4>
                      </species>
                      <trivias>
                         <trivia_1>Their sense of smell is at least 40x better than ours.</trivia_1>
@@ -69,21 +69,21 @@
                      </trivias>
                   </taxonomy>
                </legs>
-             </average_life>
-          </role_in_foodchain>
-       </scientific_name>
-    </animal_name>
-   <animal_name="Cat">
-       <scientific_name="Felis silvestris catus">
-          <role_in_foodchain="Carnivores">
-             <average_life="10-20 yrs">
-               <legs="4">
-                  <taxonomy="Mammals">
+             </average>
+          </role>
+       </scientific>
+    </animal>
+   <animal name="Cat">
+       <scientific name="Felis silvestris catus">
+          <role foodchain="Carnivores">
+             <average life="10-20 yrs">
+               <legs total="4">
+                  <taxonomy class="Mammals">
                       <species>
-                        <species_1>American Bobtail Cat<species_1>
-                        <species_2>Abyssinian Cat<species_2>
-                        <species_3>American Shorthair Cat<species_3>
-                        <species_4>Balinese-Javanese Cat<species_4>
+                        <species_1>American Bobtail Cat</species_1>
+                        <species_2>Abyssinian Cat</species_2>
+                        <species_3>American Shorthair Cat</species_3>
+                        <species_4>Balinese-Javanese Cat</species_4>
                      </species>
                      <trivias>
                         <trivia_1>Cats sleep for around 13 to 16 hours a day (70% of their life).</trivia_1>
@@ -93,21 +93,21 @@
                      </trivias>
                   </taxonomy>
                </legs>
-             </average_life>
-          </role_in_foodchain>
-       </scientific_name>
-    </animal_name>
-    <animal_name="Elephant">
-       <scientific_name="Loxodonta africana and Elephas maximus">
-          <role_in_foodchain="Herbovores">
-             <average_life="60-70 yrs">
-               <legs="4">
-                  <taxonomy="Mammals">
+             </average>
+          </role>
+       </scientific>
+    </animal>
+    <animal name="Elephant">
+       <scientific name="Loxodonta africana and Elephas maximus">
+          <role foodchain="Herbovores">
+             <average life="60-70 yrs">
+               <legs total="4">
+                  <taxonomy class="Mammals">
                       <species>
-                        <species_1>African forest elephant<species_1>
-                        <species_2>Borneo elephantt<species_2>
-                        <species_3>African bush elephant<species_3>
-                        <species_4>Asian elephant<species_4>
+                        <species_1>African forest elephant</species_1>
+                        <species_2>Borneo elephantt</species_2>
+                        <species_3>African bush elephant</species_3>
+                        <species_4>Asian elephant</species_4>
                      </species>
                      <trivias>
                         <trivia_1>Thet Communicate through vibrations through their feet.</trivia_1>
@@ -117,9 +117,9 @@
                      </trivias>
                   </taxonomy>
                </legs>
-             </average_life>
-          </role_in_foodchain>
-       </scientific_name>
-    </animal_name>
+             </average>
+          </role>
+       </scientific>
+    </animal>
 </animals>
   
