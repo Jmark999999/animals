@@ -1,85 +1,125 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <animals>
-  <animal>
-   <animal_name>
-       <name>Horse</name>
-       <scientific_name>Equus caballus</scientific_name>
-   </animal_name>
-   <role_in_foodchain>Herbivores</role_in_foodchain>
-   <average_life>25-30 yrs</average_life>
-   <legs>4</legs>
-   <taxonomy>Mammals</taxonomy>
-   <trivias>
-        <trivia>Horses can sleep both lying down and standing up.</trivia>
-        <trivia>Horses can grow a mustache.</trivia>
-        <trivia>A baby horse is called a Foal.</trivia>
-        <trivia>Their kicking force is estimated to be 2, 000 psi, with an average speed of 200 miles per hour.</trivia>
-   </trivias>
-  </animal>
-  <animal>
-   <animal_name>
-       <name>Salamander</name>
-       <scientific_name>Urodela</scientific_name>
-   </animal_name>
-   <role_in_foodchain>Carnivores</role_in_foodchain>
-   <average_life>25-30 yrs</average_life>
-   <legs>4</legs>
-   <taxonomy>Amphibians</taxonomy>
-   <trivias>
-        <trivia>Some salamanders can breathe through their skin.</trivia>
-        <trivia>Salamanders are cannibals. They will eat other salamanders that are smaller than themselves when given the opportunity.</trivia>
-        <trivia>Salamanders are capable of regenerating lost limbs.</trivia>
-        <trivia>The Earliest Salamander Species Lived Before the Dinosaurs.</trivia>
-   </trivias>
-  </animal>
-  <animal>
-   <animal_name>
-       <name>Dog</name>
-       <scientific_name>Caris lupus familiaris</scientific_name>
-   </animal_name>
-   <role_in_foodchain>Omnivores</role_in_foodchain>
-   <average_life>10-13 yrs</average_life>
-   <legs>4</legs>
-   <taxonomy>Mammals</taxonomy>
-   <trivias>
-        <trivia>Their sense of smell is at least 40x better than ours.</trivia>
-        <trivia>Dogs have 18 muscles controlling their ears.</trivia>
-        <trivia>Dogs dream.</trivia>
-        <trivia>Dogs Can Sweat Through Their Paws.</trivia>
-   </trivias>
-  </animal>
-  <animal>
-   <animal_name>
-       <name>Cat</name>
-       <scientific_name>Felis silvestris catus</scientific_name>
-   </animal_name>
-   <role_in_foodchain>Carnivores</role_in_foodchain>
-   <average_life>10-20 yrs</average_life>
-   <legs>4</legs>
-   <taxonomy>Mammals</taxonomy>
-   <trivias>
-        <trivia>Cats sleep for around 13 to 16 hours a day (70% of their life).</trivia>
-        <trivia>They have a total of 18 toes.</trivia>
-        <trivia>Each cat's nose is unique, much like human fingerprints.</trivia>
-        <trivia>Cats can jump 5 times their height.</trivia>
-   </trivias>
-  </animal>
-  <animal>
-   <animal_name>
-       <name>Elephant</name>
-       <scientific_name>Loxodonta africana and Elephas maximus</scientific_name>
-   </animal_name>
-   <role_in_foodchain>Herbovores</role_in_foodchain>
-   <average_life>60-70 yrs</average_life>
-   <legs>4</legs>
-   <taxonomy>Mammals</taxonomy>
-   <trivias>
-        <trivia>Thet Communicate through vibrations through their feet.</trivia>
-        <trivia>An elephant never forgets.</trivia>
-        <trivia>Each elephant has completely unique ears.</trivia>
-        <trivia>They have a poor hearing, despite having such large ears.</trivia>
-   </trivias>
-  </animal>
+    <animal_name="Horse">
+       <scientific_name="Equus caballus">
+          <role_in_foodchain="Herbivores">
+             <average_life="25-30 yrs">
+               <legs="4">
+                  <taxonomy="Mammals">
+                    <species>
+                        <species_1>Arabian horse<species_1>
+                        <species_2>Friesian horse<species_2>
+                        <species_3>Shire horse<species_3>
+                        <species_4>American Quarter Horse<species_4>
+                    </species>
+                    <trivias>
+                        <trivia_1>Horses can sleep both lying down and standing up.</trivia_1>
+                        <trivia_2>Horses can grow a mustache.</trivia_2>
+                        <trivia_3>A baby horse is called a Foal.</trivia_3>
+                        <trivia_4>Their kicking force is estimated to be 2, 000 psi, with an average speed of 200 miles per hour.</trivia_4>
+                     </trivias>
+                  </taxonomy>
+               </legs>
+             </average_life>
+          </role_in_foodchain>
+       </scientific_name>
+    </animal_name>
+  <animal_name="Salamander">
+       <scientific_name="Urodela">
+          <role_in_foodchain="Carnivores">
+             <average_life="25-30 yrs">
+               <legs="4">
+                  <taxonomy="Amphibians">
+                     <species>
+                        <species_1>Spotted salamander<species_1>
+                        <species_2>Fire salamander<species_2>
+                        <species_3>Chinese giant salamander<species_3>
+                        <species_4>Tiger salamander<species_4>
+                    </species>
+                     <trivias>
+                        <trivia_1>Some salamanders can breathe through their skin.</trivia_1>
+                        <trivia_2>Salamanders are cannibals. They will eat other salamanders that are smaller than themselves when given the opportunity.</trivia_2>
+                        <trivia_3>Salamanders are capable of regenerating lost limbs.</trivia_3>
+                        <trivia_4>The Earliest Salamander Species Lived Before the Dinosaurs.</trivia_4>
+                     </trivias>
+                  </taxonomy>
+               </legs>
+             </average_life>
+          </role_in_foodchain>
+       </scientific_name>
+    </animal_name>
+   <animal_name="Dog">
+       <scientific_name="Caris lupus familiaris">
+          <role_in_foodchain="Omnivores">
+             <average_life="10-13 yrs">
+               <legs="4">
+                  <taxonomy="Mammals">
+                     <species>
+                        <species_1>German Shepherd<species_1>
+                        <species_2>Labrador Retriever<species_2>
+                        <species_3>Siberian Husky<species_3>
+                        <species_4>Bulldog<species_4>
+                     </species>
+                     <trivias>
+                        <trivia_1>Their sense of smell is at least 40x better than ours.</trivia_1>
+                        <trivia_2>Dogs have 18 muscles controlling their ears.</trivia_2>
+                        <trivia_3>Dogs dream.</trivia_3>
+                        <trivia_4>Dogs Can Sweat Through Their Paws</trivia_4>
+                     </trivias>
+                  </taxonomy>
+               </legs>
+             </average_life>
+          </role_in_foodchain>
+       </scientific_name>
+    </animal_name>
+   <animal_name="Cat">
+       <scientific_name="Felis silvestris catus">
+          <role_in_foodchain="Carnivores">
+             <average_life="10-20 yrs">
+               <legs="4">
+                  <taxonomy="Mammals">
+                      <species>
+                        <species_1>American Bobtail Cat<species_1>
+                        <species_2>Abyssinian Cat<species_2>
+                        <species_3>American Shorthair Cat<species_3>
+                        <species_4>Balinese-Javanese Cat<species_4>
+                     </species>
+                     <trivias>
+                        <trivia_1>Cats sleep for around 13 to 16 hours a day (70% of their life).</trivia_1>
+                        <trivia_2>They have a total of 18 toes.</trivia_2>
+                        <trivia_3>Each cat's nose is unique, much like human fingerprints.</trivia_3>
+                        <trivia_4>Cats can jump 5 times their height.</trivia_4>
+                     </trivias>
+                  </taxonomy>
+               </legs>
+             </average_life>
+          </role_in_foodchain>
+       </scientific_name>
+    </animal_name>
+    <animal_name="Elephant">
+       <scientific_name="Loxodonta africana and Elephas maximus">
+          <role_in_foodchain="Herbovores">
+             <average_life="60-70 yrs">
+               <legs="4">
+                  <taxonomy="Mammals">
+                      <species>
+                        <species_1>African forest elephant<species_1>
+                        <species_2>Borneo elephantt<species_2>
+                        <species_3>African bush elephant<species_3>
+                        <species_4>Asian elephant<species_4>
+                     </species>
+                     <trivias>
+                        <trivia_1>Thet Communicate through vibrations through their feet.</trivia_1>
+                        <trivia_2>An elephant never forgets.</trivia_2>
+                        <trivia_3>Each elephant has completely unique ears.</trivia_3>
+                        <trivia_4>They have a poor hearing, despite having such large ears.</trivia_4>
+                     </trivias>
+                  </taxonomy>
+               </legs>
+             </average_life>
+          </role_in_foodchain>
+       </scientific_name>
+    </animal_name>
 </animals>
   
